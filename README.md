@@ -5,7 +5,7 @@
 
 Install
 -------
-`osa_k_store <http://github.com/osak/osa_k_store>`_ を導入してみっくストア経由で入れるか，もしくは ::
+[osa\_k\_store](http://github.com/osak/osa_k_store) を導入してみっくストア経由で入れるか，もしくは
 
     git clone git://git.github.com/osak/mikutter-randnum.git ~/.mikutter/plugin/randnum
 
